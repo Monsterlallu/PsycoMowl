@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PsycoMowlV2.1+WA+Bot+repo;Created+by+Monsterlallu+Ser;This+is+the+Best++Bgm+bot;With+more+features)
 
-<a href="#"><img title="PsycoMowlV2.1" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
+<a href="#"><img title="PsycoMowl" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
 
 </p>
 
@@ -34,19 +34,19 @@
 
   <p align="center">
 
-  <a href="httsp://github.com/Monsterlallu/PsycoMowlV2-1">
+  <a href="httsp://github.com/Monsterlallu/PsycoMowl">
 
-    <img src="https://img.shields.io/github/repo-size/Monsterlallu/PsycoMowlV2-1?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Monsterlallu/PsycoMowl?color=green&label=Repo%20total%20size&style=plastic">
 
 <p align="center">
 
 <a href="https://github.com/Monsterlallu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Monsterlallu?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Monsterlallu/PsycoMowlV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Monsterlallu/PsycoMowlV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Monsterlallu/PsycoMowl/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Monsterlallu/PsycoMowl?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Monsterlallu/PsycoMowlV2-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Monsterlallu/PsycoMowlV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Monsterlallu/PsycoMowl/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Monsterlallu/PsycoMowl?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/Monsterlallu/PsycoMowlV2-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Monsterlallu/PsycoMowlV2-1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Monsterlallu/PsycoMowl/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Monsterlallu/PsycoMowl?label=Watchers&color=blue&style=flat-square"></a>
 
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
