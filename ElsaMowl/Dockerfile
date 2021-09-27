@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Jihad/ElsaMowl-V2.1 /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Monsterlallu/PsycoMowl /root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
