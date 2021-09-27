@@ -76,7 +76,7 @@ Click WA logo for Support ðŸ‘‡
 
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Monsterlallu&repo=PsycoMowlV2.1&theme=nightowl)](https://github.com/Monsterlallu/PsycoMowl-V2.1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Monsterlallu&repo=PsycoMowlV2.1&theme=nightowl)](https://github.com/Monsterlallu/PsycoMowl)
 
   </div>
 
@@ -90,7 +90,7 @@ Click WA logo for Support ðŸ‘‡
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MonsterlalluSabeena123/PsycoMowl)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monsterlallu3321/PsycoMowl-V2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monsterlallu/PsycoMowl)
 
      </div>
 
@@ -142,9 +142,9 @@ $ node qr.js
 
 SETUP
 
-$ git clone https://github.com/Monsterlallu/PsycoMowl-V2.1
+$ git clone https://github.com/Monsterlallu/PsycoMowl
 
-$ cd PsycoMowl-V2.1
+$ cd PsycoMowl
 
 $ chmod +x *
 
